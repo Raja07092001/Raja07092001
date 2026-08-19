@@ -4,14 +4,14 @@
 
 I'm building practical data analytics projects focused on turning raw data into clear insights and business recommendations.
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 - **SQL / SQLite** — Data cleaning, transformation, aggregation and analysis
 - **Excel / Google Sheets** — Data preparation, analysis and reporting
 - **Tableau** — Interactive dashboards and data storytelling
 - **GitHub** — Project documentation and portfolio development
 
-## 📊 Featured Project
+## Featured Project
 
 ### Cyclistic Bike-Share Analysis — 2025
 
@@ -33,13 +33,13 @@ A business-focused analysis of approximately **5.55 million rides** to understan
 
 🔗 [View the interactive Tableau Story](https://public.tableau.com/shared/CRS5Q8WRT?:display_count=n&:origin=viz_share_link)
 
-## 🎯 Current Focus
+## Current Focus
 
 - Building a strong data analytics portfolio
 - Improving SQL and data visualization skills
 - Developing business-focused analytical projects
 - Learning how to communicate insights clearly to stakeholders
 
-## 📫 Let's Connect
+## Let's Connect
 
 I'm interested in entry-level **Data Analyst / Business Analyst** opportunities and projects where data can be used to support better business decisions.
