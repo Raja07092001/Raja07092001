@@ -1,45 +1,53 @@
 # Hi, I'm Raja 👋
 
-### Aspiring Data Analyst | SQL | Excel | Tableau | Data Visualization
+**Aspiring Data Analyst | Python · SQL · Excel · Tableau**
 
-I'm building practical data analytics projects focused on turning raw data into clear insights and business recommendations.
+I build business-focused analytics projects that turn raw records into validated metrics, interactive dashboards and practical recommendations. I focus on clear insights and on explaining what the available data can—and cannot—prove.
 
-## Skills & Tools
+## Featured portfolio projects
 
-- **SQL / SQLite** — Data cleaning, transformation, aggregation and analysis
-- **Excel / Google Sheets** — Data preparation, analysis and reporting
-- **Tableau** — Interactive dashboards and data storytelling
-- **GitHub** — Project documentation and portfolio development
+### 🍽️ [Restaurant Sales Performance Analysis](https://github.com/Raja07092001/restaurant-sales-performance-analysis)
 
-## Featured Project
+**Python · pandas · Tableau · Sales analytics**
 
-### Cyclistic Bike-Share Analysis — 2025
+Analyzed **17,104 financially complete restaurant transactions** from 2022–2023, documented missing-data decisions, and built two interactive Tableau dashboards.
 
-A business-focused analysis of approximately **5.55 million rides** to understand how casual riders and annual members use Cyclistic differently and identify opportunities to increase annual memberships.
+- **340,617.50** in total revenue (currency not specified in source data)
+- **4.36%** year-over-year revenue decline in 2023
+- Investigated category and product performance, transaction volume and customer behavior
+- Delivered evidence-based recommendations with explicit data limitations
 
-**Analysis covered:**
-- Monthly riding patterns
-- Casual vs. member behavior
-- Weekday vs. weekend usage
-- Peak riding hours
-- Ride duration
-- Bike type preference
-- Top start and end stations
-- Business recommendations
+[**View project, Python analysis and business report →**](https://github.com/Raja07092001/restaurant-sales-performance-analysis)
 
-**Tools:** SQL • SQLite • Excel • Tableau • GitHub
+### 🚲 [Cyclistic Bike-Share Analysis — 2025](https://github.com/Raja07092001/cyclistic-bike-share-analysis)
 
-🔗 [View the Cyclistic project on GitHub](https://github.com/Raja07092001/cyclistic-bike-share-analysis)
+**SQL / SQLite · Tableau · Business storytelling**
 
-🔗 [View the interactive Tableau Story](https://public.tableau.com/shared/CRS5Q8WRT?:display_count=n&:origin=viz_share_link)
+Examined approximately **5.55 million cleaned bike-share trips** (per project documentation) to compare casual riders with annual members.
 
-## Current Focus
+- Analyzed rider mix, ride duration, weekday/weekend patterns, monthly trends and popular stations
+- Developed measurable membership-campaign hypotheses
+- Presented results through an interactive Tableau Story and a documented SQL query collection
 
-- Building a strong data analytics portfolio
-- Improving SQL and data visualization skills
-- Developing business-focused analytical projects
-- Learning how to communicate insights clearly to stakeholders
+[**View project →**](https://github.com/Raja07092001/cyclistic-bike-share-analysis) · [**Explore Tableau Story →**](https://public.tableau.com/shared/CRS5Q8WRT?:display_count=n&:origin=viz_share_link)
 
-## Let's Connect
+## Technical toolkit
 
-I'm interested in entry-level **Data Analyst / Business Analyst** opportunities and projects where data can be used to support better business decisions.
+| Focus | Tools / skills |
+|---|---|
+| Analysis | Python, pandas, SQL, SQLite |
+| Spreadsheets | Microsoft Excel, Google Sheets |
+| Dashboards | Tableau Public, interactive filtering, KPI design |
+| Data preparation | Missing values, validation, grouping, financial reconciliation |
+| Business analysis | Trend analysis, customer/product segmentation, communicating findings |
+| Collaboration | GitHub, versioned projects and clear documentation |
+
+## How I approach a project
+
+**Business question → data validation → analysis → visualization → recommendations.**
+
+I aim for readable, reproducible work and avoid attributing outcomes to causes the dataset cannot measure.
+
+## Let's connect
+
+I'm interested in **Data Analyst** and **Business Analyst** opportunities. Explore my repositories or connect through [my GitHub profile](https://github.com/Raja07092001).
