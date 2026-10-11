@@ -17,7 +17,7 @@ Analyzed **17,104 financially complete restaurant transactions** from 2022–202
 - Investigated category and product performance, transaction volume and customer behavior
 - Delivered evidence-based recommendations with explicit data limitations
 
-[**View project, Python analysis and business report →**](https://github.com/Raja07092001/restaurant-sales-performance-analysis)
+[**View project, Python analysis and business report →**](https://github.com/Raja07092001/restaurant-sales-performance-analysis) · [**Explore live Tableau dashboard →**](<https://public.tableau.com/views/Restaurant_Sales_Interactive_Final/ProductCustomerAnalysis>)
 
 ### 🚲 [Cyclistic Bike-Share Analysis — 2025](https://github.com/Raja07092001/cyclistic-bike-share-analysis)
 
